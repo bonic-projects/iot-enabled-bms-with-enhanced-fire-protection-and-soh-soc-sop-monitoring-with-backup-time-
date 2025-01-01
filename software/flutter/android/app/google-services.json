@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881224416431",
+    "firebase_url": "https://iot-based-bms-2d49b-default-rtdb.firebaseio.com",
+    "project_id": "iot-based-bms-2d49b",
+    "storage_bucket": "iot-based-bms-2d49b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881224416431:android:bd723d8d70073ea3b5a85a",
+        "android_client_info": {
+          "package_name": "com.example.smart_bms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJgdBGlBUOPZeUmB6s8NWUObLUPzTHUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
