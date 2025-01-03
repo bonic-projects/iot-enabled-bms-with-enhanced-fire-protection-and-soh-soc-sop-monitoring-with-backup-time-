@@ -44,6 +44,15 @@ class HomeView extends StatelessWidget {
                   onPressed: () => viewModel.navigateToTemperature(),
                   child: Text('Temperature'),
                 ),
+                SizedBox(height: 40),
+                ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    padding: EdgeInsets.symmetric(horizontal: 50, vertical: 20),
+                    backgroundColor: Colors.orange,
+                  ),
+                  onPressed: () => viewModel.toggleReset(),
+                  child: Text('Toggle Reset'),
+                ),
               ],
             ),
           ),

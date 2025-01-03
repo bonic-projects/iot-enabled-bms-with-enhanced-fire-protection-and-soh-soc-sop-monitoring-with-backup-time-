@@ -21,7 +21,7 @@ class StartupView extends StackedView<StartupViewModel> {
           children: [
             Text(
               'Smart BMS',
-              style: TextStyle(fontSize: 40, fontWeight: FontWeight.w900),
+              style: TextStyle(fontSize: 40, fontWeight: FontWeight.w900,color: Colors.green),
             ),
             Row(
               mainAxisSize: MainAxisSize.min,
